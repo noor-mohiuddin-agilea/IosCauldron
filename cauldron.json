@@ -27,10 +27,10 @@
               "isReleased": false,
               "nativeDeps": [],
               "yarnLocks": {},
-              "containerVersion": "0.0.0"
+              "containerVersion": "0.0.1"
             }
           ],
-          "containerVersion": "0.0.0"
+          "containerVersion": "0.0.1"
         }
       ]
     }
